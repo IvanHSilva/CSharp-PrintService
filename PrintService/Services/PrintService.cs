@@ -1,7 +1,7 @@
 ﻿using System;
 
 namespace PrintService.Services {
-    public class PrintService {
+    public class PrinterService {
         // Attributes
         private int[] _values = new int[10];
         private int _count = 0;
